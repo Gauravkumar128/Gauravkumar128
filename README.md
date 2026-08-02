@@ -1,3 +1,22 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Gaurav&fontSize=65&fontColor=ffffff&animation=fade&fontAlignY=35&desc=Java%20Developer%20|%20Python%20|%20Machine%20Learning%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=20"
+    width="100%"
+  />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Developer;Python+Developer;Machine+Learning+Engineer;Full+Stack+Developer;Backend+Developer;Open+Source+Contributor;Always+Learning+🚀" />
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,spring,flask,react,nodejs,mysql,git,github,tensorflow,sklearn,vscode,idea" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravkumar128&theme=github_dark" />
+</p>
+
 # 💫 About Me:
 🚀 Building Java, Python, Machine Learning, and Full-Stack Development projects.<br><br>🤝 Open to collaborating on Open Source, Software Development, and AI/ML projects.<br><br>📚 Currently learning Machine Learning, Deep Learning, Cloud Computing, and System Design.<br><br>💡 Interested in Backend Development, Data Analytics, and building intelligent applications.<br><br>💬 Ask me about Java • Python • SQL • Machine Learning • Data Analytics • Git • REST APIs<br><br>🛠️ Languages & Tech Stack<br>Java • Python • C++ • JavaScript • HTML5 • CSS3 • SQL • MySQL • Git • GitHub • REST APIs • Flask • Spring Boot • Scikit-learn • Pandas • NumPy • Matplotlib • TensorFlow • Power BI • VS Code • IntelliJ IDEA<br><br>⚡ Always learning, always building, and always exploring new technologies.
 
