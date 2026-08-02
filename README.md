@@ -516,6 +516,9 @@ Software Engineering
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gauravkumar128/Gauravkumar128/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
 <p align="center">
 
