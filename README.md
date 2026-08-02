@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Gaurav&fontSize=65&fontColor=ffffff&animation=fade&fontAlignY=35&desc=Java%20Developer%20|%20Python%20|%20Machine%20Learning%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=20"
     width="100%"
@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravkumar128&theme=github_dark" />
 </p>
-
+](https://github.com/Gauravkumar128/Gauravkumar128/blob/main/README.md)
 # 💫 About Me:
 🚀 Building Java, Python, Machine Learning, and Full-Stack Development projects.<br><br>🤝 Open to collaborating on Open Source, Software Development, and AI/ML projects.<br><br>📚 Currently learning Machine Learning, Deep Learning, Cloud Computing, and System Design.<br><br>💡 Interested in Backend Development, Data Analytics, and building intelligent applications.<br><br>💬 Ask me about Java • Python • SQL • Machine Learning • Data Analytics • Git • REST APIs<br><br>🛠️ Languages & Tech Stack<br>Java • Python • C++ • JavaScript • HTML5 • CSS3 • SQL • MySQL • Git • GitHub • REST APIs • Flask • Spring Boot • Scikit-learn • Pandas • NumPy • Matplotlib • TensorFlow • Power BI • VS Code • IntelliJ IDEA<br><br>⚡ Always learning, always building, and always exploring new technologies.
 
