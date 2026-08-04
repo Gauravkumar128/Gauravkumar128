@@ -11,7 +11,7 @@
 
 <h3 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Java+Backend+Developer+•+Spring+Boot;Machine+Learning+•+Python+•+Data+Analytics;Full+Stack+Developer+•+REST+APIs+•+Open+Source+Contributor+•+Always+Learning+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Java+Backend+Developer+•+Spring+Boot•+REST+APIs;Machine+Learning+•+Python+•+Data+Analytics;Full+Stack+Developer+•+Open+Source+Contributor+•+Always+Learning+🚀"
     alt="Typing Animation"
   />
 </h3>
