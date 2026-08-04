@@ -374,8 +374,6 @@ Software Engineering
 
 </p>
 
-> **⚠️ Important:** The snake animation won't work automatically. In Part 4, I'll give you the GitHub Action that generates it.
-
 ---
 
 # 💻 Coding Profiles
@@ -515,13 +513,3 @@ Software Engineering
 
 </p>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gauravkumar128/Gauravkumar128/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1E3A8A,100:06B6D4&height=120&section=footer"/>
-
-</p>
